@@ -1,3 +1,13 @@
+# Support the Author
+
+If you want to support the development of this project, you can make a donation.
+
+## 🇺🇦 Ukraine (UAH)
+4441 1111 0773 8019
+
+---
+
+
 # 🔐 Node Password Checker (bcrypt)
 
 A simple CLI tool written in **Node.js** that securely stores and verifies a password using **bcrypt hashing**.
